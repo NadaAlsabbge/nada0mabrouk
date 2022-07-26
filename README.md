@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+### Hi there 
 **nada0mabrouk/nada0mabrouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +8,4 @@ Here are some ideas to get you started:
 . 🤝 I’m looking to collaborate on some web projects.
 . 📫 How to reach me: nadamabrouk757@gmail.com, +201065675145.
 .😌 I love Programming, Reading ,Travel and more...
--->
+
